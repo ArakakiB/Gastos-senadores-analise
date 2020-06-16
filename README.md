@@ -1,6 +1,6 @@
 # Gastos-senadores-analise
 
-## Nessa análise de dados vamos estudar os gastos dos senadores públicos de um período de 2016, e também vamos responder algumas perguntas.  
+## Nessa análise de dados vamos estudar os gastos dos senadores públicos de um período de 2016, e também responderemos a algumas perguntas.  
 
 **A Ceap é uma cota destinada a custear as despesas de apoio ao trabalho legislativo, e seu valor varia de acordo com o Estado do congressista, com base na distância para Brasília. Ela é dividida em 7 cifras, que vão desde o aluguel de imóveis para escritório político a gastos com alimentação e combustível, passagens, hospedagem e divulgação da atividade parlamentar. Aqui apenas baixei as informações do período de 01/01/2016 a 25/10/2016.**
 
